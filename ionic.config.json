@@ -1,0 +1,7 @@
+{
+  "name": "schapp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}

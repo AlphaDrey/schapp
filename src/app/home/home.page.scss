@@ -1,0 +1,31 @@
+
+ion-content {
+    
+    --background: #fff url('../../assets/images/cover.jpg') no-repeat center center / cover  ;
+     
+	
+
+}
+ion-button {
+    --background:  #00b33c;
+    position: relative;
+   top: 420px;
+}
+ ion-note{
+color:#b3b3b3;
+text-align: center;
+ font-size: 12px;
+ justify-content: space-between;
+  }
+
+ .text{
+position: absolute;
+bottom: 120px;
+left:50px;
+ }
+
+ ion-note{
+ --text-align: center;
+--color:#e6e6e6;
+font-size: 12px;
+ }
